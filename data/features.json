@@ -1,0 +1,40 @@
+{
+  "features": [
+    {
+      "id": 1,
+      "icon": "🛴",
+      "title": "3D Scooter Control",
+      "description": "Master the art of scooter riding with intuitive 3D controls that respond to your every move."
+    },
+    {
+      "id": 2,
+      "icon": "💫",
+      "title": "Amazing Tricks",
+      "description": "Perform incredible stunts and tricks as you navigate through challenging 3D environments."
+    },
+    {
+      "id": 3,
+      "icon": "🏆",
+      "title": "Score System",
+      "description": "Compete for high scores with our dynamic scoring system that rewards skill and precision."
+    },
+    {
+      "id": 4,
+      "icon": "🎮",
+      "title": "Stunning 3D Graphics",
+      "description": "Immerse yourself in a vibrant 3D world with stunning visuals and smooth animations."
+    },
+    {
+      "id": 5,
+      "icon": "🎯",
+      "title": "Precision Controls",
+      "description": "Easy to learn, hard to master gameplay that's perfect for players of all skill levels."
+    },
+    {
+      "id": 6,
+      "icon": "♾️",
+      "title": "Endless Adventure",
+      "description": "Never-ending entertainment with multiple tracks and infinite replayability."
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "gameUpdates": [
+    {
+      "id": 1,
+      "title": "New Scooter Models Added",
+      "excerpt": "We've added exciting new scooter models to make your riding experience even more thrilling!",
+      "fullText": "We've added exciting new scooter models to make your riding experience even more thrilling! The new scooters include the Turbo Racer, Street Cruiser, and Extreme Stunt models. Each scooter has unique handling characteristics and special abilities that affect gameplay - some are faster, while others are better at performing tricks. The update also includes improved 3D graphics and smoother animations for a more immersive gaming experience.",
+      "date": "2025-01-15",
+      "image": "./contentImg/scooter_card1.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Performance Improvements",
+      "excerpt": "Major performance optimizations have been implemented to ensure smooth gameplay on all devices.",
+      "fullText": "Major performance optimizations have been implemented to ensure smooth gameplay on all devices. We've reduced loading times by 40% and improved frame rates across all platforms. The game now runs more efficiently on mobile devices while maintaining the same high-quality 3D graphics. We've also fixed several minor bugs and improved the overall stability of the game, making trick execution more responsive.",
+      "date": "2025-01-10",
+      "image": "./contentImg/scooter_card2.jpg"
+    }
+  ],
+  "trickGuides": [
+    {
+      "id": 1,
+      "title": "Mastering Advanced Tricks",
+      "excerpt": "Follow the journey of a dedicated player as they master the art of scooter tricks.",
+      "fullText": "Follow the journey of a dedicated player as they master the art of scooter tricks. From their first basic moves to becoming a trick master, this guide chronicles the progression of learning advanced techniques. Discover the strategies they developed, the challenges they faced, and the satisfaction of finally landing that perfect combo. It's a story of persistence, skill development, and the thrill of extreme sports gaming.",
+      "date": "2025-01-12",
+      "image": "./contentImg/scooter_card3.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Community Spotlight: Top Riders",
+      "excerpt": "Meet the incredible players who have achieved the highest scores in Scooter Touchgrind Tricks 3D.",
+      "fullText": "Meet the incredible players who have achieved the highest scores in Scooter Touchgrind Tricks 3D. We interviewed several top riders to learn their secrets, strategies, and what makes the game so addictive for them. From casual players who enjoy quick sessions to hardcore gamers who spend hours perfecting their technique, each rider brings a unique perspective to the scooter world. Learn their favorite tricks and track strategies.",
+      "date": "2025-01-08",
+      "image": "./contentImg/scooter_card4.jpg"
+    }
+  ]
+}

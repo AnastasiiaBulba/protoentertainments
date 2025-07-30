@@ -1,0 +1,40 @@
+{
+  "reviews": [
+    {
+      "id": 1,
+      "name": "Alex Johnson",
+      "rating": 5,
+      "text": "Absolutely thrilling! The scooter controls are so smooth and the tricks feel amazing. I love how challenging the 3D environments are."
+    },
+    {
+      "id": 2,
+      "name": "Mike Chen",
+      "rating": 5,
+      "text": "Perfect racing game for quick breaks. The 3D graphics are incredible and the controls are intuitive. Highly recommend!"
+    },
+    {
+      "id": 3,
+      "name": "Emma Davis",
+      "rating": 4,
+      "text": "Great game to relax with. The stunning 3D graphics are beautiful and the gameplay is simple yet challenging. Love it!"
+    },
+    {
+      "id": 4,
+      "name": "Alex Thompson",
+      "rating": 5,
+      "text": "This game is pure fun! The scooter mechanics with 3D racing is such an exciting experience. Can't stop playing!"
+    },
+    {
+      "id": 5,
+      "name": "Lisa Wang",
+      "rating": 4,
+      "text": "Simple controls but deep strategy. I love trying to beat my high scores and the trick system is so satisfying!"
+    },
+    {
+      "id": 6,
+      "name": "David Rodriguez",
+      "rating": 5,
+      "text": "Amazing game! The precision controls are challenging but rewarding. Perfect for both quick sessions and longer play."
+    }
+  ]
+}

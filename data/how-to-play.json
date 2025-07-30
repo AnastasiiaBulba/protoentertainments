@@ -1,0 +1,46 @@
+{
+  "instructions": [
+    {
+      "id": 1,
+      "number": "1",
+      "title": "Choose Your Scooter",
+      "description": "Select from different scooter models, each with unique handling characteristics and special abilities.",
+      "tip": "Try different scooters to find the one that matches your riding style!"
+    },
+    {
+      "id": 2,
+      "number": "2",
+      "title": "Master the Controls",
+      "description": "Use arrow keys or WASD to control your scooter. Lean into turns and maintain balance for smooth riding.",
+      "tip": "Practice basic movements before attempting advanced tricks!"
+    },
+    {
+      "id": 3,
+      "number": "3",
+      "title": "Perform Tricks",
+      "description": "Hit ramps and obstacles to perform amazing stunts. Time your jumps perfectly to land spectacular tricks.",
+      "tip": "Start with simple tricks and gradually increase difficulty!"
+    },
+    {
+      "id": 4,
+      "number": "4",
+      "title": "Collect Coins",
+      "description": "Gather coins along the track to unlock new scooter models and customize your ride with special upgrades.",
+      "tip": "Explore different paths to find hidden coin collections!"
+    },
+    {
+      "id": 5,
+      "number": "5",
+      "title": "Avoid Obstacles",
+      "description": "Navigate through challenging obstacles and maintain your speed while keeping your scooter under control.",
+      "tip": "Look ahead and plan your route to avoid crashes!"
+    },
+    {
+      "id": 6,
+      "number": "6",
+      "title": "Beat Your Records",
+      "description": "Complete tracks as fast as possible and achieve the highest scores. Challenge yourself to improve with each run!",
+      "tip": "Don't give up - every run helps you improve your skills!"
+    }
+  ]
+}
