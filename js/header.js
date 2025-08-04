@@ -76,8 +76,9 @@ function initHeader() {
     mobileMenu.classList.add("active");
     mobileMenuBtn.classList.add("active");
     document.body.style.overflow = "hidden";
-    document.body.style.position = "fixed";
-    document.body.style.width = "100%";
+    // Remove position fixed to prevent scrollbar issues
+    // document.body.style.position = "fixed";
+    // document.body.style.width = "100%";
 
     // Add backdrop to body
     const backdrop = document.createElement("div");
@@ -90,8 +91,9 @@ function initHeader() {
     mobileMenu.classList.remove("active");
     mobileMenuBtn.classList.remove("active");
     document.body.style.overflow = "";
-    document.body.style.position = "";
-    document.body.style.width = "";
+    // Remove position fixed to prevent scrollbar issues
+    // document.body.style.position = "";
+    // document.body.style.width = "";
 
     // Remove backdrop from body
     const backdrop = document.querySelector(".mobile-menu-backdrop");
